@@ -1,0 +1,17 @@
+{
+  "m": 1.0,
+  "thr": 0.8539395928382874,
+  "Fbeta": 0.2990033191631439,
+  "precision": 0.10909090909090909,
+  "recall": 0.5294117647058824,
+  "false_positives": 146,
+  "arch": {
+    "hidden_dim": 128,
+    "lr": 0.001,
+    "weight_decay": 0.0005,
+    "layers": 3,
+    "dropout": 0.2,
+    "bn": false,
+    "opt": "adam"
+  }
+}

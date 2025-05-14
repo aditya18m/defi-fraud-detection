@@ -1,0 +1,16 @@
+{
+  "m": 3.8,
+  "thr": 0.7685470581054688,
+  "Fbeta": 0.512820509777924,
+  "precision": 0.24489795918367346,
+  "recall": 0.7058823529411765,
+  "false_positives": 73,
+  "arch": {
+    "hidden_dim": 128,
+    "lr": 0.001,
+    "weight_decay": 0.001,
+    "layers": 4,
+    "dropout": 0.6,
+    "bn": true
+  }
+}
